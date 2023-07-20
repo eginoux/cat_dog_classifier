@@ -1,0 +1,6 @@
+# Ignore jpg files
+*.jpg
+
+# Ignore Mac system files
+.DS_Store
+__MACOSX/
