@@ -4,7 +4,7 @@ This repository contains a Jupyter Notebook showcasing a Cat and Dog Recognition
 The goal of this project is to demonstrate the process of building and training a CNN model to classify images of cats and dogs with high accuracy.
 
 ## Introduction
-This project is a part of the FreeCodeCamp challenges from the [Machine Learning with Python course: https://www.freecodecamp.org/learn/machine-learning-with-python
+This project is a part of the FreeCodeCamp challenges from the Machine Learning with Python course: https://www.freecodecamp.org/learn/machine-learning-with-python
 Convolutional Neural Networks (CNNs) are a powerful class of deep learning models widely used for image classification tasks.
 In this project, we utilize TensorFlow, a popular open-source deep learning framework, to build a CNN model that can accurately classify images of cats and dogs.
 
